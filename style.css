@@ -224,7 +224,7 @@ section.allElems{
 .task h5 span{
     background-color: var(--red);
     color: var(--pri);
-    font-size: 10px;
+    font-size: 11px;
     padding: 3px 4px;
     border-radius: 20px;
 }
@@ -239,8 +239,8 @@ section.allElems{
     color: var(--pri);
     background-color: green;
     border: none;
-    border-radius: 10px;
-    font-size: 18px;
+    border-radius: 12px;
+    font-size: 19px;
     cursor: pointer;
     font-weight: 700;
     transform: all ease 0.3s;
